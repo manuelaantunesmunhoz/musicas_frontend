@@ -1,4 +1,4 @@
-const urlBackend = "http://localhost:3003"
+const urlBackend = "https://musicas-backendantunes.vercel.app"
 
 const listarMusicas = document.getElementById("listarMusicas")
 

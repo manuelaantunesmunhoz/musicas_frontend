@@ -1,5 +1,5 @@
 
-const urlBackend = "http://localhost:3003";
+const urlBackend = "https://musicas-backendantunes.vercel.app";
 
 const inputTitulo = document.getElementById("titulo");
 const inputArtista = document.getElementById("artista");
